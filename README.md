@@ -1,8 +1,8 @@
 # Description
-This is a react component of slider or carousel.
+An image slider component for React.
 
 ## Features
-The following featires can enables or disabled by passing the appropriate props to the
+The following features can be enabled or disabled by passing the appropriate props to the
 slider component
 
     imagesNumber: Number of images to show in slider
@@ -11,7 +11,7 @@ slider component
     pagination: If passed, pagination box will be shown at bottom right(Default to false)
     controls: If passed, 'next' and 'previous' buttons will be shown(Default to false)
     description: If passed, description will be shown at the bottom(Default to false)
-    autoplayMode: If passed, slides will rotate automatically
+    autoplayMode: If passed, slides will rotate automatically(Default to false)
 
 # Available Scripts
 In the project directory, you can run:
